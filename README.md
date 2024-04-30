@@ -1,4 +1,4 @@
-# employee management system
+# weather application
 
 Implemented and Designed weather application using react js,tailwind css, and open weather api.
 
